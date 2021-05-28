@@ -1,16 +1,8 @@
-# todoey
+# Todoey
 
-A new Flutter application.
+Flutter Course
 
-## Getting Started
+dependencies:
+  * provider: ^5.0.0
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/50651962/120039861-d62eb500-c01a-11eb-8d7d-284eebd45e18.png" width="300"> <img src="https://user-images.githubusercontent.com/50651962/120039874-d929a580-c01a-11eb-934f-5f61d6de82ca.png" width="300"> <img src="https://user-images.githubusercontent.com/50651962/120039884-ddee5980-c01a-11eb-96ca-8109e471441d.png" width="300">
